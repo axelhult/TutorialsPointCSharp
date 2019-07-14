@@ -21,5 +21,10 @@ namespace TutorialsPointCSharp
         {
             Console.WriteLine("This is a function!");
         }
+     
+        static void myNewGithubFunction(){
+          // ... new function added in github (online)
+           Console.WriteLine("hello github commit!");
+        }
     }
 }
