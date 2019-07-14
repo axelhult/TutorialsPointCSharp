@@ -19,7 +19,7 @@ namespace TutorialsPointCSharp
 
         static void newFunction()
         {
-            Console.WriteLine("This is a function!");
+            Console.WriteLine("This is a function... modified in master branch in github!");
         }
     }
 }
