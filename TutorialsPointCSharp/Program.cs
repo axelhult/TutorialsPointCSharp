@@ -12,9 +12,14 @@ namespace TutorialsPointCSharp
 
             HelperClasses.DataTypesClass.printDataTypes();
 
-;
-            Console.WriteLine();
+
+            Console.WriteLine("hello there!");
             Console.ReadLine();
+        }
+
+        static void newFunction()
+        {
+            Console.WriteLine("This is a function!");
         }
     }
 }
