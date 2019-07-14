@@ -24,7 +24,7 @@ namespace TutorialsPointCSharp
      
         static void myNewGithubFunction(){
           // ... new function added in github (online)
-           Console.WriteLine("hello github commit!");
+           Console.WriteLine("this is a comment from Visual Studio!");
         }
     }
 }
