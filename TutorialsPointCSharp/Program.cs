@@ -19,7 +19,7 @@ namespace TutorialsPointCSharp
 
         static void newFunction()
         {
-            Console.WriteLine("This is a function!");
+            Console.WriteLine(" ***** THIS IS A CHANGE FROM VS!! **** ");
         }
      
         static void myNewGithubFunction(){
