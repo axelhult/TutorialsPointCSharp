@@ -31,5 +31,10 @@ namespace TutorialsPointCSharp
         {
             // New function added 2019-11-10
         }
+
+        static void TEST_FUNCTION_XX()
+        {
+            //...
+        }
     }
 }
