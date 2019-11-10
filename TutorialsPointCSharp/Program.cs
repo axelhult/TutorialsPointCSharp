@@ -26,5 +26,10 @@ namespace TutorialsPointCSharp
           // ... new function added in github (online)
            Console.WriteLine("this is a comment from Visual Studio!");
         }
+
+        static void newTestFunctionNovember()
+        {
+            // New function added 2019-11-10
+        }
     }
 }
