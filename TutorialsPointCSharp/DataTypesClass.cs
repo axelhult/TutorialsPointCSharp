@@ -3,7 +3,7 @@
 namespace HelperClasses
 {
     public static class DataTypesClass
-    {
+    {// hejhej
         static int x;
         static string myString;
         static double myDouble;
