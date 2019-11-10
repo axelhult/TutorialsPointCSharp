@@ -11,6 +11,7 @@ namespace HelperClasses
         public static void printDataTypes()
         {
             Console.WriteLine("int is size:" + x);
+            // ... hej hej
         }
     }
 }
