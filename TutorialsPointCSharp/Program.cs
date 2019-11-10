@@ -24,7 +24,7 @@ namespace TutorialsPointCSharp
      
         static void myNewGithubFunction(){
           // ... new function added in github (online)
-           Console.WriteLine("this is a comment from Visual Studio!");
+           Console.writeLine("ÄNDRING via GITHUB-GUI!");
         }
 
         static void newTestFunctionNovember()
@@ -36,7 +36,7 @@ namespace TutorialsPointCSharp
         {
             // .asdsdasds
 
-            // sdaas dsd
+            // ... lite mer ändringar här nere
 
             // *** !*  *** !
             // ksmfksldmflkdsmflkd
