@@ -1,10 +1,10 @@
 ﻿using System;
- 
+
 namespace TutorialsPointCSharp
 {
     class Program
     {
-        
+
 
         static void Main(string[] args)
         {
@@ -21,10 +21,26 @@ namespace TutorialsPointCSharp
         {
             Console.WriteLine("This change is from within github (online)");
         }
-     
+
         static void myNewGithubFunction(){
           // ... new function added in github (online)
-           Console.WriteLine("this is a comment from Visual Studio!");
+           Console.writeLine("ÄNDRING via GITHUB-GUI!");
+        }
+
+        static void newTestFunctionNovember()
+        {
+            // New function added 2019-11-10
+        }
+
+        static void TEST_FUNCTION_XX()
+        {
+            // .asdsdasds
+
+            // ... LOKALA ÄNDRINGAR!
+            // ... ATOM ATOM 
+
+            // *** !*  *** !
+            // ksmfksldmflkdsmflkd
         }
     }
 }

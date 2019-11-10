@@ -3,7 +3,7 @@
 namespace HelperClasses
 {
     public static class DataTypesClass
-    {
+    {// hejhej
         static int x;
         static string myString;
         static double myDouble;
@@ -11,6 +11,7 @@ namespace HelperClasses
         public static void printDataTypes()
         {
             Console.WriteLine("int is size:" + x);
+            // ... hej hej
         }
     }
 }
